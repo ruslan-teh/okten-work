@@ -1,0 +1,232 @@
+@media screen and (max-width: 320px){
+    .dropdown,
+    .dropdown-menu,
+    .header-top__list,
+    .header-bottom__time,
+    .header-bottom__time p,
+    .header-bottom__street,
+    .time,
+    .header-bottom__btn-item-wrap,
+    .button-btn-input{
+        display: none;
+    }
+    .logo{
+        margin: auto 0;
+        width: 40px;
+    }
+    .header-bottom__text h2{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .header-bottom__text p{
+        font-size: 8px;
+        line-height: 10px;
+    }
+    .header-top__contact p:nth-child(1){
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        color: #0F2438;
+
+    }
+    .header-top__contact p:nth-child(2){
+        font-size: 10px;
+        line-height: 12px;
+        margin-bottom: 10px;
+    }
+    .header-bottom__info{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .header-bottom__whatsapp-contact{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-end;
+    }
+    .header-bottom__whatsapp img{
+        width: 132px;
+        height: 18px;
+    }
+    .header-bottom__whatsapp{
+        width: 132px;
+        height: 18px;
+        background: #E1EFD0;
+        border-radius: 2px;
+        margin: auto;
+    }
+    .input-border{
+        width: 200px;
+        height: 34px;
+        margin: 15px 0 15px 15px;
+    }
+    .button-btn img{
+        width: 12px;
+        height: 12px;
+        margin: auto;
+    }
+    .main__carousel{
+        flex-direction: column;
+    }
+    .main__style-slider{
+        padding: 5px;
+    }
+    .main__style-slider h5{
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .main__style-slider p{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .main__style-slider-2{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .main__style-slider-3{
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .main__style-slider-img{
+        width: 130px;
+    }
+    .main__style-slider-btn{
+        width: 124px;
+        height: 34px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .main__style-slider-btn img{
+        width: 11px;
+    }
+    .product-cart{
+        width: 250px;
+        height: 145px;
+        margin: 10px auto;
+    }
+    .product.cart p{
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .product-cart__description-1{
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .product-cart__description-2{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .product-cart__price-1{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .product-cart__price-2{
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .product-cart-btn{
+        width: 32px;
+        height: 32px;
+    }
+    .product-cart__img{
+        width: 58px;
+        height: 54px;
+        margin: 10px 10px 0px;
+    }
+    .main__carousel-item-description{
+        overflow: hidden;
+    }
+    .product-button__shares{
+        margin: 10px auto;
+    }
+    .product__item{
+        flex-wrap: wrap;
+    }
+    .product__item-cart{
+        width: 50%;
+        margin: 25px auto;
+    }
+    .product__item-cart-img img{
+        width: 149px;
+        height: 127px;
+    }
+    .product__item-cart-description{
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .product__item-cart-price{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .product__item-cart-button{
+        display: flex;
+        align-items: center;
+    }
+    .product__item-cart-button button{
+        margin: 0 10px 0 0;
+        width: 110px;
+        height: 35px;
+        padding: 0;
+
+    }
+    .product__item-cart-button-img{
+        width: 12px;
+        height: 12px;
+        margin-right: 5px;
+    }
+    .rating,
+    .product__item-cart-button button{
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .reviews{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .footer__news-wrap{
+        width: 100%;
+        padding: 15px;
+    }
+    .line{
+        display: none;
+    }
+    .footer__about-us-info{
+        flex-direction: column;
+    }
+    .footer__about-us-contact{
+        margin-top: 25px;
+        width: auto;
+    }
+    .footer__about-us-contact p{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .footer__about-us-contact a{
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .footer__contact{
+        margin-top: 25px;
+    }
+
+    .footer__email button{
+        width: 104px;
+        height: 34px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .footer__soc{
+        margin: 28px auto;
+    }
+    .footer__signature{
+        font-size: 12px;
+        line-height: 14px;
+        padding: 15px;
+    }
+
+
+
+
+
+}
